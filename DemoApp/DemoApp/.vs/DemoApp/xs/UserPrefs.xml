@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C2E7462A-1026-4251-A5C1-B20A644B7BC3}|Default">
+  <MonoDevelop.Ide.ItemProperties.DemoApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DemoApp.Android Xamarin.HotReload.WrongLinkerErrorInfoBar.DemoApp.Android.HideInfoBar="True" PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoApp/DemoApp/LoginUI.xaml">
+    <Files>
+      <File FileName="DemoApp/DemoApp/MainPage.xaml.cs" />
+      <File FileName="DemoApp/DemoApp/MainPage.xaml" />
+      <File FileName="DemoApp/DemoApp/App.xaml.cs" Line="7" Column="43" />
+      <File FileName="DemoApp/DemoApp/LoginUI.xaml.cs" Line="28" Column="50" />
+      <File FileName="DemoApp/DemoApp/LoginUI.xaml" Line="5" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoApp" expanded="True">
+            <Node name="DemoApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="LoginUI.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="DemoApp.Android" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="DemoApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.6" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

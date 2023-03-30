@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="DemoApp.LoginUI">
+    <ContentPage.Content>
+
+        <Grid VerticalOptions="CenterAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Frame Grid.Row="0" Margin="20" Padding="20" CornerRadius="10" BackgroundColor="#FFFFFF">
+            <StackLayout>
+                <Label Text="LoginPage" FontSize="24" FontAttributes="Bold" HorizontalTextAlignment="Center" Margin="0,0,0,20" />
+                <Entry Placeholder="Email" x:Name="emailEntry" />
+    <Entry Placeholder="Password" IsPassword="True" x:Name="passwordEntry" />
+    <Button Text="Login" Clicked="OnLoginButtonClicked" />
+
+            </StackLayout>
+        </Frame>
+
+        <Label Grid.Row="1" Text="My App" FontSize="36" FontAttributes="Bold" TextColor="#2196F3" HorizontalTextAlignment="Center" Margin="0,20,0,0" />
+    </Grid>
+
+
+    </ContentPage.Content>
+</ContentPage>
+
