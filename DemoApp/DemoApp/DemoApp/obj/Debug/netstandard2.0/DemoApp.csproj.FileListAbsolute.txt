@@ -1,0 +1,16 @@
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.deps.json
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.dll
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/bin/Debug/netstandard2.0/ref/DemoApp.dll
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.pdb
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.csproj.AssemblyReference.cache
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.AssemblyInfoInputs.cache
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.AssemblyInfo.cs
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.dll
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/ref/DemoApp.dll
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.pdb
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/LoginUI.xaml.g.cs
+/Users/ankitakhare/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/MyPage.xaml.g.cs
